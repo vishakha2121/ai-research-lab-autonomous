@@ -1,29 +1,7 @@
 
 /site
 
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
 
-# Pyre type checker
-.pyre/
-
-# pytype static type analyzer
-.pytype/
-
-# Cython debug symbols
-cython_debug/
-
-# ============================================
-# NODE / JAVASCRIPT
-# ============================================
-
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
